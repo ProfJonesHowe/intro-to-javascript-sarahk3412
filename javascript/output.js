@@ -1,5 +1,5 @@
 function showInnerHTML() {
-  document.getElementById("output1").innerHTML = "Hello from innerHTML!";
+  document.getElementById("output1").innerHTML = "Hello from Sarah K.!";
 }
 
 function useDocumentWrite() {
@@ -7,9 +7,10 @@ function useDocumentWrite() {
 }
 
 function showAlert() {
-  alert("This is an alert box!");
+  alert("Positive Message Incoming!");
 }
 
 function showConsole() {
   console.log("This message is in the console.");
 }
+
